@@ -1,5 +1,5 @@
-### Machine Learning Practices and Mini-Projects
-# This repository will contain code and experiments related to various machine learning practices, including:
+# Machine Learning Practices and Mini-Projects
+### This repository will contain code and experiments related to various machine learning practices, including:
 
 * Exploratory Data Analysis (EDA)
   
