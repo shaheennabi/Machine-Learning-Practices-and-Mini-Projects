@@ -11,4 +11,5 @@
   
 * MLOps Experiments: Testing workflows and pipelines related to machine learning operations, model deployment, and monitoring.
   
-* I will be continuously updating this repository with new notebooks and projects as I explore and experiment with different aspects of machine learning.
+
+  I will be continuously updating this repository with new notebooks and projects as I explore and experiment with different aspects of machine learning.
