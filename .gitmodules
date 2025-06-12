@@ -1,3 +1,6 @@
 [submodule "Production-Ready-MlOps-Gem-Stone-Machine-learning-Project"]
 	path = Production-Ready-MlOps-Gem-Stone-Machine-learning-Project
 	url = https://github.com/shaheennabi/Production-Ready-MlOps-Gem-Stone-Machine-learning-Project
+[submodule "US-visa-machine-learning-end-to-end-project"]
+	path = US-visa-machine-learning-end-to-end-project
+	url = https://github.com/shaheennabi/US-visa-machine-learning-end-to-end-project
