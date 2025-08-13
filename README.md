@@ -9,6 +9,3 @@ You’ll find:
 - Reusable Python scripts for common ML tasks
 - Experiments with scalable ML workflows
 
-## License
-
-This project is licensed under the MIT License.
